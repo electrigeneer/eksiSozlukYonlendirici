@@ -1,8 +1,8 @@
-#Eskisozluk URL Yönlendirici
+# Eskisozluk URL Yönlendirici
 
 Bu kullanıcı betiği (UserScript), Google üzerindeki eksisozluk1923.com adresine tıklandığında otomatik olarak eksisozluk1999.com adresine yönlendirme sağlar.
 
-##Kurulum
+## Kurulum
 
 1.  Tampermonkey veya Greasemonkey gibi UserScript'leri destekleyen bir tarayıcı eklentisi yükleyin.
 2.  Tarayıcınızdaki eklenti simgesine tıklayın ve yönetim panelini açın.
@@ -13,7 +13,7 @@ Bu kullanıcı betiği (UserScript), Google üzerindeki eksisozluk1923.com adres
 
 Betiği yükledikten sonra, Google'da eksisozluk1923.com adresine tıkladığınızda otomatik olarak eksisozluk1999.com adresine yönlendirileceksiniz.
 
-##URL'leri Kişiselleştirme
+## URL'leri Kişiselleştirme
 
 Eğer URL'leri kişiselleştirmek istiyorsanız, şu adımları takip edin:
 
