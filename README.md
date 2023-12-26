@@ -1,6 +1,6 @@
 # Eskisozluk URL Yönlendirici
 
-Bu kullanıcı betiği (UserScript), Google üzerindeki eksisozluk1923.com adresine tıklandığında otomatik olarak eksisozluk1999.com adresine yönlendirme sağlar.
+Bu kullanıcı betiği (UserScript), Google üzerindeki eksisozluk1999.com adresine tıklandığında otomatik olarak eksisozluk111.com adresine yönlendirme sağlar.
 
 ## Kurulum
 
